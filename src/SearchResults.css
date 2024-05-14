@@ -1,0 +1,27 @@
+#searchResults {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+  }
+  
+  .log-entry {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .log-entry p {
+    margin: 5px 0;
+  }
+  
+  .log-entry .level {
+    font-weight: bold;
+  }
+  
+  .log-entry .timestamp {
+    color: #666;
+  }
+  
